@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.gsn516.starcraft
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
